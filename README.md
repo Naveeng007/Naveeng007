@@ -2,7 +2,7 @@
 - 🔭 I’m currently Student of ... Delhi Technological University (2018-2022)
 - 🌱 I’m currently learning ...Reactjs
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[linkedin]('https://www.linkedin.com/in/naveenkumar160/')
+- 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/naveenkumar160/)
 ---
 
 ### Languages and Tools:
