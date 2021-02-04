@@ -1,12 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently Student of ... Delhi Technological University (2018-2022)
-- 🌱 I’m currently learning ...React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...DS , Algo, ML, DL, MERN
-- 📫 How to reach me: ...fg
-- 😄 Pronouns: ...dfdf
-- ⚡ Fun fact: ...sdfsdf
+- 🌱 I’m currently learning ...Reactjs
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ...[linkedin]('https://www.linkedin.com/in/naveenkumar160/')
 ---
 
 ### Languages and Tools:
