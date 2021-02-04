@@ -8,5 +8,8 @@
 - 😄 Pronouns: ...dfdf
 - ⚡ Fun fact: ...sdfsdf
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveeng007&show_icons=true&theme=radical)
 
